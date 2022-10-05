@@ -19,8 +19,8 @@ Project developed while studying at Alura website
 2. Access through the Vercel link: http://organo-alura-tawny.vercel.app/
 
 ## Link deploy
-organo-o08uqicgj-challenge-amaro.vercel.app
+[Clck here](organo-o08uqicgj-challenge-amaro.vercel.app)
 
 ## GIF from the project:
-
+<img src="src\img\ezgif.com-gif-maker (1).gif">
  
